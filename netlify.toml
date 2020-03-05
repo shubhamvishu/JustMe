@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/old-path"
-  to = "/new-path"
+  from = "shubhamc.netlify.com"
+  to = "https://shubham-chaudhary.com"
   status = 301
   force = false
   query = {path = ":path"}
