@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "shubhamc.netlify.com"
-  to = "https://shubham-chaudhary.com"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
